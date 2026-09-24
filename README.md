@@ -1,4 +1,3 @@
-````markdown
 # Aula 4 — Virtualização e Contêineres na Nuvem
 
 Nesta aula de Computação em Nuvem, estudamos sobre virtualização, máquinas virtuais, contêineres e Docker.
@@ -26,7 +25,6 @@ A primeira coisa que fiz foi verificar se o Docker estava funcionando corretamen
 
 ```bash
 docker info | head
-````
 
 Depois executei o primeiro contêiner usando a imagem `hello-world`:
 
